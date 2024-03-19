@@ -151,7 +151,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   int stateCounter = 0;
   int state = 0;
-  #define TASK 4
+  #define TASK 3
   // Turn the LED default off for safety reasons
   while (1)
   {
